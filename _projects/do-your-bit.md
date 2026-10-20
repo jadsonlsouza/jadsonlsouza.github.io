@@ -30,12 +30,12 @@ The photographs below show student teams alongside their projects, with micro:bi
 ### Looking back at previous editions
 
 <figure>
-  <img src="{{ '/assets/img/projects/do-your-bit/previous-edition-exhibition.jpg' | relative_url }}" class="img-fluid rounded" alt="Students and educators at Colégio CEI behind a display of prototypes, micro:bit boards, and Sustainable Development Goals cubes." loading="lazy" width="1800" height="1350">
+  <img src="{{ '/assets/img/projects/do-your-bit/previous-edition-exhibition.jpg' | relative_url }}" class="img-fluid rounded" alt="Students and educators at Colégio CEI behind a display of prototypes, micro:bit boards, and Sustainable Development Goals cubes." loading="lazy" width="800" height="450">
   <figcaption>A display of student projects from a previous edition, connecting computational thinking, hands-on making, and the Sustainable Development Goals.</figcaption>
 </figure>
 
 <figure>
-  <img src="{{ '/assets/img/projects/do-your-bit/previous-edition-team.jpg' | relative_url }}" class="img-fluid rounded" alt="An educator and three students at Colégio CEI presenting a cardboard prototype, laptops, and do your :bit materials." loading="lazy" width="800" height="841">
+  <img src="{{ '/assets/img/projects/do-your-bit/previous-edition-team.jpg' | relative_url }}" class="img-fluid rounded" alt="An educator and three students at Colégio CEI presenting a cardboard prototype, laptops, and do your :bit materials." loading="lazy" width="800" height="450">
   <figcaption>A team presenting its prototype during a previous edition of do your :bit at Colégio CEI.</figcaption>
 </figure>
 

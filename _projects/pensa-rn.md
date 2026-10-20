@@ -12,7 +12,7 @@ related_publications: false
 **I serve as a teacher trainer in Pensa RN**, the Programa Norte-rio-grandense de Pensamento Computacional (Rio Grande do Norte Computational Thinking Program). My involvement connects my work in computing education with the professional development of school teachers.
 
 <figure>
-  <img src="{{ '/assets/img/projects/pensa-rn/program.png' | relative_url }}" class="img-fluid rounded" alt="Pensa RN program illustration featuring its name in Portuguese and a stylized brain with circuit patterns." width="1500" height="918" loading="lazy">
+  <img src="{{ '/assets/img/projects/pensa-rn/program.png' | relative_url }}" class="img-fluid rounded" alt="Pensa RN program illustration featuring its name in Portuguese and a stylized brain with circuit patterns." width="800" height="450" loading="lazy">
   <figcaption>Programa Norte-rio-grandense de Pensamento Computacional — Pensa RN.</figcaption>
 </figure>
 

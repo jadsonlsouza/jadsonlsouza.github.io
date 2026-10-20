@@ -45,13 +45,13 @@ Mentoring and practice pitches help teams refine their proposals before presenti
 <div class="row">
   <div class="col-sm-6">
     <figure>
-      <img src="{{ '/assets/img/projects/ceitec-hackathon/event-02.jpg' | relative_url }}" class="img-fluid rounded" alt="Student teams working together with laptops and notebooks at the CEITEC Hackathon." width="1012" height="1800" loading="lazy">
+      <img src="{{ '/assets/img/projects/ceitec-hackathon/event-02.jpg' | relative_url }}" class="img-fluid rounded" alt="Student teams working together with laptops and notebooks at the CEITEC Hackathon." width="800" height="450" loading="lazy">
       <figcaption>Teams collaborating on their projects during the hackathon.</figcaption>
     </figure>
   </div>
   <div class="col-sm-6">
     <figure>
-      <img src="{{ '/assets/img/projects/ceitec-hackathon/event-01.jpg' | relative_url }}" class="img-fluid rounded" alt="Students presenting their problem statement on stage while judges evaluate their pitch at the CEITEC Hackathon." width="1012" height="1800" loading="lazy">
+      <img src="{{ '/assets/img/projects/ceitec-hackathon/event-01.jpg' | relative_url }}" class="img-fluid rounded" alt="Students presenting their problem statement on stage while judges evaluate their pitch at the CEITEC Hackathon." width="800" height="450" loading="lazy">
       <figcaption>Students presenting their ideas to the judging panel.</figcaption>
     </figure>
   </div>
