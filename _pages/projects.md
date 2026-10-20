@@ -25,6 +25,6 @@ My projects explore how **computing education**, **computational thinking**, and
 - Generative AI for computing education
 - Generative AI applied to programming education
 - Introductory programming and computational thinking
-- Educational technologies and teacher professional development
+- Educational technologies
 
 See my [publications](/publications/) for peer-reviewed research.

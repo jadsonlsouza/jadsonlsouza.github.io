@@ -42,7 +42,6 @@ Email: [jadson.souza@ufrn.br](mailto:jadson.souza@ufrn.br).
 - Generative AI applied to programming education
 - Computational thinking
 - Educational technologies
-- Teacher professional development
 
 ## Explore
 
