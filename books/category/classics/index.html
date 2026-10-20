@@ -98,11 +98,26 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">',
           description: "",
-          section: "News",},{id: "projects-flowchart-based-worked-examples",
+          section: "News",},{id: "projects-ceitec-hackathon",
+          title: 'CEITEC Hackathon',
+          description: "Founder and General Coordinator of a student hackathon connecting technology, sustainability, and entrepreneurship.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ceitec-hackathon/";
+            },},{id: "projects-do-your-bit-at-colégio-cei",
+          title: 'do your :bit at Colégio CEI',
+          description: "Computational thinking, creativity, and hands-on projects from previous editions at Colégio CEI.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/do-your-bit/";
+            },},{id: "projects-flowchart-based-worked-examples",
           title: 'Flowchart-Based Worked Examples',
           description: "Generative AI and visual explanations for introductory programming education",
           section: "Projects",handler: () => {
               window.location.href = "/projects/flowchart-based-worked-examples/";
+            },},{id: "projects-pensa-rn",
+          title: 'Pensa RN',
+          description: "Teacher professional development to integrate Computational Thinking into everyday school practice.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pensa-rn/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
