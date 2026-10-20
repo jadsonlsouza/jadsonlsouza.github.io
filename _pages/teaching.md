@@ -11,7 +11,7 @@ My teaching work connects **Computational Thinking, programming, educational tec
 
 ## Computational Thinking — Colégio CEI
 
-Since 2020, I have taught Computational Thinking at Colégio CEI in Natal, Brazil, including activities connected to maker education.
+Since 2020, I have taught at Colégio CEI in Natal, Brazil, where my teaching includes **Computational Thinking and AI Education at the K–12 level**, alongside activities connected to maker education. In **2026**, I was promoted to **Computational Thinking Subject Coordinator**, my current role at the school.
 
 ## University teaching — UFRN
 

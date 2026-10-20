@@ -35,6 +35,11 @@ cv:
         end_date: 2018
     Experience:
       - company: Colégio CEI
+        position: Computational Thinking Subject Coordinator
+        location: Natal, Brazil
+        start_date: 2026
+        summary: Promoted in 2026 to coordinate the Computational Thinking subject at the K–12 level, alongside teaching Computational Thinking and AI Education.
+      - company: Colégio CEI
         position: Computational Thinking Teacher
         location: Natal, Brazil
         start_date: 2020
