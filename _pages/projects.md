@@ -23,7 +23,7 @@ My projects explore how **computing education**, **computational thinking**, and
 ## Research interests
 
 - Generative AI for computing education
-- Flowchart-based worked examples and visual explanations
+- Generative AI applied to programming education
 - Introductory programming and computational thinking
 - Educational technologies and teacher professional development
 
