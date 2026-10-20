@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: "PhD Student in Systems and Computing · Computing Education Researcher"
 
