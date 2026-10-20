@@ -26,7 +26,7 @@ I am a **PhD student in Systems and Computing** at the [Federal University of Ri
 
 My academic interests connect **Computing Education, Computational Thinking, Generative AI, and Educational Technology**. I am interested in how these fields can support teaching and learning in programming.
 
-Alongside research, I teach **Computational Thinking and AI Education** at **Colégio CEI**, where I have worked since 2020. I also served as a **substitute lecturer at UFRN (2024–2026)**, teaching introductory programming and programming languages. These experiences connect my research questions with the day-to-day practice of computing education.
+Alongside research, I teach **Computational Thinking and AI Education at the K–12 level** at **Colégio CEI**, where I have worked since 2020. I also served as a **substitute lecturer at UFRN (2024–2026)**, teaching introductory programming and programming languages. These experiences connect my research questions with the day-to-day practice of computing education.
 
 I hold a **Master's degree in Educational Technology Innovation** (UFRN, 2021) and a **Bachelor's degree in Science and Technology** (UFRN, 2018).
 
