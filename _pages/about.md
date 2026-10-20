@@ -30,6 +30,10 @@ Alongside research, I teach **Computational Thinking** at Colégio CEI, where I 
 
 I hold a **Master's degree in Educational Technology Innovation** (UFRN, 2021) and a **Bachelor's degree in Science and Technology** (UFRN, 2018).
 
+## Latest publication
+
+**Dantas, J. C., Silva, F., Souza, J. L., & Aranha, E. H. (2026).** [Geração de casos de teste com IA Generativa para plataformas de juiz online: um estudo comparativo com o Pynguin](https://sol.sbc.org.br/index.php/sbie/article/view/45754). *Anais do XXXVII Simpósio Brasileiro de Informática na Educação (SBIE)*, 2191–2204. [DOI: 10.5753/sbie.2026.28258](https://doi.org/10.5753/sbie.2026.28258).
+
 ## Research interests
 
 - Generative AI for computing education
