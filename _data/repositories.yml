@@ -1,14 +1,17 @@
+# GitHub profile and publicly accessible repositories.
+# Only list public repositories here; private repositories are intentionally excluded.
 github_users:
-  - torvalds
-  - alshedivat
+  - jadsonlsouza
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jadsonlsouza/explicacoes
+  - jadsonlsouza/machine-learning-cet
+  - jadsonlsouza/ciartepc
+  - jadsonlsouza/digitador-de-notas
+  - jadsonlsouza/forense
+  - jadsonlsouza/Polimofirsmo
+  - jadsonlsouza/jadsonlsouza.github.io
+  - jadsonlsouza/opluademel
+  - jadsonlsouza/teste
