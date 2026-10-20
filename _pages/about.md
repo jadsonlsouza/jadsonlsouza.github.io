@@ -43,7 +43,7 @@ I hold a **Master's degree in Educational Technology Innovation** (UFRN, 2021) a
 
 ## Explore
 
-- [Research and projects](/projects/)
+- [Projects](/projects/)
 - [Academic publications](/publications/)
 - [Teaching experience](/teaching/)
 - [Curriculum vitae](/cv/)
