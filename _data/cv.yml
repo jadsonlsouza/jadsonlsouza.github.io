@@ -61,31 +61,43 @@ cv:
         start_date: 2026-08-12
         end_date: 2026-12-31
         summary: University outreach in innovation and entrepreneurship.
+        label: "Innovation and Entrepreneurship League (UFRN/IMD)"
+        details: "Execution Team Member | 2026-08-12 – 2026-12-31. University outreach in innovation and entrepreneurship."
       - company: Mover + Jogar — Year 3
         position: Deputy Coordinator
         start_date: 2025-03-01
         end_date: 2025-12-31
         summary: Game creation hub for motor training and rehabilitation.
+        label: "Mover + Jogar — Year 3"
+        details: "Deputy Coordinator | 2025-03-01 – 2025-12-31. Game creation hub for motor training and rehabilitation."
       - company: Workshop on Computational Thinking Practices for School Teachers
         position: Instructor
         start_date: 2020-09-14
         end_date: 2020-10-30
         summary: Computational Thinking practices for basic education teachers.
+        label: "Workshop on Computational Thinking Practices for School Teachers"
+        details: "Instructor | 2020-09-14 – 2020-10-30. Computational Thinking practices for basic education teachers."
       - company: Robotics at NEI
         position: Collaborator
         start_date: 2019-03-01
         end_date: 2019-12-31
         summary: Interdisciplinary educational robotics and unplugged computing in early childhood education.
+        label: "Robotics at NEI"
+        details: "Collaborator | 2019-03-01 – 2019-12-31. Interdisciplinary educational robotics and unplugged computing in early childhood education."
       - company: Computational Thinking and its Relationship with the BNCC
         position: Instructor
         start_date: 2019-09-03
         end_date: 2019-11-30
         summary: Computational Thinking and Brazil's national curriculum for public elementary and lower secondary school teachers.
+        label: "Computational Thinking and its Relationship with the BNCC"
+        details: "Instructor | 2019-09-03 – 2019-11-30. Computational Thinking and Brazil's national curriculum for public elementary and lower secondary school teachers."
       - company: II Workshop on Innovation with Educational Technologies (WITE 2018)
         position: Instructor
         start_date: 2018-11-20
         end_date: 2018-12-04
         summary: Educational technology innovation.
+        label: "II Workshop on Innovation with Educational Technologies (WITE 2018)"
+        details: "Instructor | 2018-11-20 – 2018-12-04. Educational technology innovation."
     Awards:
       - title: Micro:bit Champion
         date: 2024
