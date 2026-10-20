@@ -6,7 +6,7 @@ subtitle: "PhD Student in Systems and Computing · Computing Education Researche
 
 profile:
   align: right
-  image:
+  image: jadson-profile.webp
   image_circular: false
   more_info: >
     <p>Federal University of Rio Grande do Norte (UFRN)</p>
