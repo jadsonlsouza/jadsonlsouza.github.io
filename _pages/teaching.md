@@ -1,15 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: Computing education and teacher professional development.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+My teaching work connects **Computational Thinking, programming, educational technologies, and classroom practice**.
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+## Computational Thinking — Colégio CEI
 
-{% include courses.liquid %}
+Since 2020, I have taught Computational Thinking at Colégio CEI in Natal, Brazil, including activities connected to maker education.
+
+## University teaching — UFRN
+
+From 2024 to 2026, I served as a substitute lecturer at the Federal University of Rio Grande do Norte, teaching **Programming Logic** and **Programming Languages**, with practical work involving Python, C++, and JavaScript.
+
+## Teacher professional development
+
+My experience includes teacher training initiatives in educational technology and Computational Thinking, including PensaRN.
