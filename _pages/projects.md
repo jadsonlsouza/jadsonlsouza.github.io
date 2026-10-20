@@ -9,7 +9,7 @@ nav_order: 1
 
 My projects explore how **computing education**, **computational thinking**, and **generative AI** can connect research and teaching practice.
 
-## Current research
+## Research and educational initiatives
 
 <div class="projects">
   {% assign sorted_projects = site.projects | sort: "importance" %}
