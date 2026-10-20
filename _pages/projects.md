@@ -1,25 +1,30 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /projects/
-description: Research topics and ongoing investigations.
+description: Research and educational technology projects in computing education.
 nav: true
 nav_order: 1
 ---
 
-## Generative AI for visual programming explanations
+My projects explore how **computing education**, **computational thinking**, and **generative AI** can connect research and teaching practice.
 
-My doctoral research investigates **flowchart-based worked examples** that combine flowcharts with textual explanations for introductory programming problems.
+## Current research
 
-The current focus is on the **generation and assessment of the quality** of these explanations. Student learning outcomes are not claimed or reported here.
+<div class="projects">
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  <div class="row row-cols-1 row-cols-md-3">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+</div>
 
 ## Research interests
 
-- Generative artificial intelligence in computing education
-- Visual explanations and worked examples
-- Introductory programming education
-- Computational Thinking
+- Generative AI for computing education
+- Flowchart-based worked examples and visual explanations
+- Introductory programming and computational thinking
+- Educational technologies and teacher professional development
 
-## Related work
-
-See my [publications](/publications/) for published research.
+See my [publications](/publications/) for peer-reviewed research.
