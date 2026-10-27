@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Computing education and teacher professional development.
+description: "Jadson Souza’s K–12 and university teaching, Computational Thinking coordination at Colégio CEI, and outreach activities."
 nav: true
 nav_order: 3
 ---

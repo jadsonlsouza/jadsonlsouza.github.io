@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /blog/
+description: "Notes and reflections by Jadson Souza on computing education, computational thinking, and educational technologies."
 title: Blog
 nav: true
 nav_order: 5

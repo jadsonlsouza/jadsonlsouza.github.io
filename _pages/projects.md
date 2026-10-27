@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Research and educational technology projects in computing education.
+description: "Explore Jadson Souza’s computing education projects, including Pensa RN, do your :bit, and the CEITEC Hackathon."
 nav: true
 nav_order: 1
 ---

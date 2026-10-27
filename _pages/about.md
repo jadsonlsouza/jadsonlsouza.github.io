@@ -1,5 +1,6 @@
 ---
 layout: about
+description: "Jadson Souza, UFRN computing education researcher and K–12 Computational Thinking coordinator. Research in generative AI applied to programming education."
 title: About
 permalink: /
 subtitle: "PhD Student in Systems and Computing · Computing Education Researcher"

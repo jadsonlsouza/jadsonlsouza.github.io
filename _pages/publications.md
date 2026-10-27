@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Peer-reviewed journal and conference publications.
+description: "Peer-reviewed publications by Jadson Souza in computing education, computational thinking, and educational technologies."
 nav: true
 nav_order: 2
 ---
